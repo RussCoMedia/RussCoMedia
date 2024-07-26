@@ -9,7 +9,7 @@
         <p>
             I am a photographer who specializes in digital 
             content creation and aerial photography/videography
-            [Price Sheet.pdf](https://github.com/user-attachments/files/16386188/Price.Sheet.pdf)
+            (https://github.com/user-attachments/files/16386188/Price.Sheet.pdf)
         </p>
         <h2>What I'm working on</h2>
         <p>
