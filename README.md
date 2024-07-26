@@ -12,7 +12,7 @@
         <h2>What I'm working on</h2>
         <p>
             I'm obsessed with the powersports industry right now 
-            and currently adding virtual tour oprions to my store.
+            and currently adding virtual tour options to my store.
         </p>
     </body>
 </html>
